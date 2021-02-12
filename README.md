@@ -1,7 +1,8 @@
 ### Flávio Fpos
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Flávio%20Fposs-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+![Linkedin Badge](https://img.shields.io/badge/-Flávio%20Fpos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-p-o-segundo-889b25108//)
+
 [![Gmail Badge](https://img.shields.io/badge/-flaviofpos@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flaviofpos@hotmail.com)](mailto:flaviofpos@hotmail.com)
 
 Hi ! Welcome ,
