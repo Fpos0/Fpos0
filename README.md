@@ -1,5 +1,11 @@
-### Hi there 👋
+### Flávio Fpos
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Flávio%20Fposs-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-flaviofpos@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flaviofpos@hotmail.com)](mailto:flaviofpos@hotmail.com)
+
+Hi ! Welcome ,
+react/Node begginer
 <!--
 **Fpos0/Fpos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
