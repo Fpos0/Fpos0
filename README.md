@@ -5,7 +5,7 @@
 Sou um FullStack Developer,em desenvolvimento ;)
 
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React ou Back-End com Node
  <br/> :computer: &nbsp; ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias,trance,games e tudo que envolve os mundos.
  <br/> :email: &nbsp; Entre em contato : [![Linkedin Badge](https://img.shields.io/badge/-FlavioFpos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-p-o-segundo-889b25108/)](https://www.linkedin.com/in/flavio-p-o-segundo-889b25108/) 
