@@ -1,8 +1,24 @@
 
 # Flávio Fpos
 
-## Olá pessoal 👋
-Sou um FullStack Developer,em desenvolvimento ;)
+## Hey Guys👋
+I'm a React Dev, in development ;)
+
+
+ <br/> :purple_heart: &nbsp; Searching to Colaborate in React/React-Native Projects
+ <br/>  :email: &nbsp; Email: : flaviofpos@hotmail.com
+ <br/> 💬  &nbsp; About me: Dota 2 Player , Enthusiast UX/UI , fan of eletronic music(Trance, Tecno , Tech House, Deep House,and so on )
+  <br/> :computer:  Techs that I'm studying &nbsp;<br/> 
+ [![React Native](https://img.shields.io/badge/-React%20Native-blue)](https://reactnative.dev/)
+ [![ReactJS](https://img.shields.io/badge/-ReactJS-blue)](reactjs.org)   
+ [![Typescript](https://img.shields.io/badge/-Typescript-informational)](https://www.typescriptlang.org/) 
+ [![Node.js](https://img.shields.io/badge/-Node.js-green)](https://nodejs.org/en/)
+ <br/>
+ 
+ 
+ 
+ ## Olá pessoal 👋
+Sou um Dev React&React-native,em desenvolvimento ;)
 
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React ou Back-End com Node
